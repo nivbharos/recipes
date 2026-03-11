@@ -9,3 +9,6 @@
 
 ## Instructions
 Add all ingredients to blender
+
+## Alternative
+Swap pine nuts for pistache nuts to make pistache pesto
