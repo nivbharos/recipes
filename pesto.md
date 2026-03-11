@@ -3,7 +3,6 @@
 * parm regg
 * pine nuts
 * olive oil
-* salt
 * black pepper
 * basil
 * garlic
