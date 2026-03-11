@@ -6,6 +6,7 @@
 * salt
 * black pepper
 * basil
+* garlic
 
 ## Instructions
 Add all ingredients to blender
